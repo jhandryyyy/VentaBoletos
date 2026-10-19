@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="VentanaVenta" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="boleteria.VentanaVenta" />
+    <module name="VentaBoletos" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

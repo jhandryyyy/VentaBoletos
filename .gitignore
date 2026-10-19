@@ -1,0 +1,12 @@
+# Compilados de IntelliJ
+out/
+*.class
+
+# Configuracion personal de IntelliJ (la del proyecto si se sube)
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+
+# Sistema
+.DS_Store
+Thumbs.db
