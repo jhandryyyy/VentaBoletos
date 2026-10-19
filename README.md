@@ -44,7 +44,7 @@ Cada furgoneta lleva **20 asientos** por viaje.
 ## Cómo ejecutar
 
 1. En IntelliJ IDEA, ir a *File → Open* y elegir **esta carpeta**, la que tiene `src`, `.idea` y este README.
-2. Arriba a la derecha ya aparece **VentanaVenta**. Presionar ▶ (Run).
+2. Arriba a la derecha ya aparece **VentanaVenta**. Presionar  (Run).
 
 El proyecto ya trae la configuración de IntelliJ: la carpeta del código y la ejecución. Hay que ejecutarlo desde IntelliJ, porque es IntelliJ el que compila el `.form`. Si IntelliJ pide un JDK, elegir el que esté instalado (17 o más nuevo).
 
